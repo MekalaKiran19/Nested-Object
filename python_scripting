@@ -1,5 +1,5 @@
 people = {1: {'name': 'Dhoni', 'age': '27', 'sex': 'Male'},
-          2: {'name': 'Marie', 'age': '22', 'sex': 'Female'}}
+          2: {'name': 'Yuvi', 'age': '22', 'sex': 'male'}}
 
 print(people[1]['name'])
 print(people[1]['age'])
